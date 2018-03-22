@@ -1,0 +1,37 @@
+Data Time: 3/20/2018 3:21:32 PM: Start Process
+Data Time: 3/20/2018 3:21:32 PM: End Process
+Data Time: 3/20/2018 3:21:36 PM: Start Process
+Data Time: 3/20/2018 3:21:36 PM: End Process
+Data Time: 3/20/2018 3:26:40 PM: Start Process
+Data Time: 3/20/2018 3:26:40 PM: End Process
+Data Time: 3/20/2018 3:27:01 PM: Start Process
+Data Time: 3/20/2018 3:27:01 PM: End Process
+Data Time: 3/20/2018 3:27:04 PM: Start Process
+Data Time: 3/20/2018 3:27:04 PM: End Process
+Data Time: 3/20/2018 3:27:16 PM: Start Process
+Data Time: 3/20/2018 3:27:16 PM: End Process
+Data Time: 3/20/2018 3:27:19 PM: Start Process
+Data Time: 3/20/2018 3:27:19 PM: End Process
+Data Time: 3/20/2018 3:38:50 PM: Start Process
+Data Time: 3/20/2018 3:38:51 PM: Exception Thrown: Directory Path Not Found
+Data Time: 3/20/2018 3:38:51 PM: IO Exception Thrown: Could not find a part of the path 'C:\Users\Cleveland Codes\source\repos\HomeWork16\bin\Debug\Please Enter a folder path to Search'.
+Data Time: 3/20/2018 3:41:07 PM: Start Process
+Data Time: 3/20/2018 3:41:07 PM: Exception Thrown: Directory Path Not Found
+Data Time: 3/20/2018 3:41:07 PM: IO Exception Thrown: Could not find a part of the path 'C:\Users\Cleveland Codes\source\repos\HomeWork16\bin\Debug\C;\'.
+Data Time: 3/20/2018 3:41:14 PM: Start Process
+Data Time: 3/20/2018 3:41:14 PM: Exception Thrown: Directory Path Not Found
+Data Time: 3/20/2018 3:41:14 PM: IO Exception Thrown: Could not find a part of the path 'C:\Users\Cleveland Codes\source\repos\HomeWork16\bin\Debug\C;\'.
+Data Time: 3/20/2018 3:41:23 PM: Start Process
+Data Time: 3/20/2018 3:41:23 PM: Exception Thrown: Directory Path Not Found
+Data Time: 3/20/2018 3:41:23 PM: IO Exception Thrown: Could not find a part of the path 'C:\Users\Cleveland Codes\source\repos\HomeWork16\bin\Debug\C;'.
+Data Time: 3/20/2018 3:44:03 PM: Start Process
+Data Time: 3/20/2018 3:44:03 PM: End Process
+Data Time: 3/20/2018 3:45:56 PM: Start Process
+Data Time: 3/20/2018 3:45:56 PM: Exception Thrown: Directory Path Not Found
+Data Time: 3/20/2018 3:45:56 PM: IO Exception Thrown: Could not find a part of the path 'C:\Users\Cleveland Codes\source\repos\HomeWork16\bin\Debug\C;\Right'.
+Data Time: 3/20/2018 3:46:56 PM: Start Process
+Data Time: 3/20/2018 3:46:56 PM: End Process
+Data Time: 3/20/2018 3:53:22 PM: Start Process
+Data Time: 3/20/2018 3:57:02 PM: End Process
+Data Time: 3/20/2018 4:01:31 PM: Start Process
+Data Time: 3/20/2018 4:01:38 PM: End Process

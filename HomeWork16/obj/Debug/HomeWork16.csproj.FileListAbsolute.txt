@@ -1,0 +1,10 @@
+c:\users\cleveland codes\source\repos\HomeWork16\bin\Debug\HomeWork16.exe.config
+c:\users\cleveland codes\source\repos\HomeWork16\bin\Debug\HomeWork16.exe
+c:\users\cleveland codes\source\repos\HomeWork16\bin\Debug\HomeWork16.pdb
+c:\users\cleveland codes\source\repos\HomeWork16\obj\Debug\HomeWork16.csprojResolveAssemblyReference.cache
+c:\users\cleveland codes\source\repos\HomeWork16\obj\Debug\HomeWork16.Form1.resources
+c:\users\cleveland codes\source\repos\HomeWork16\obj\Debug\HomeWork16.Properties.Resources.resources
+c:\users\cleveland codes\source\repos\HomeWork16\obj\Debug\HomeWork16.csproj.GenerateResource.Cache
+c:\users\cleveland codes\source\repos\HomeWork16\obj\Debug\HomeWork16.csproj.CoreCompileInputs.cache
+c:\users\cleveland codes\source\repos\HomeWork16\obj\Debug\HomeWork16.exe
+c:\users\cleveland codes\source\repos\HomeWork16\obj\Debug\HomeWork16.pdb
